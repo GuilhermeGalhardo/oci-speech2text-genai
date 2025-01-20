@@ -1,0 +1,1 @@
+# oci-speech2text-genai
